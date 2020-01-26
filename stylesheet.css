@@ -1,0 +1,48 @@
+body {
+  background-color: #eee;
+}
+
+h5 {
+  margin: 10px;
+}
+
+p {
+  left: auto;
+}
+
+table{
+  margin: 200px 0px 0px 200px;
+}
+
+table, th, td {
+  background-color: #fff;
+  border: 1px #000 solid;
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: top;
+  padding: 5px 10px 5px 10px;
+}
+
+#element {
+  border: 1px #000 solid;
+  background-color: #fff;
+  margin: 200px 200px 0px 200px;
+  padding: 5px 10px 5px 10px;
+}
+
+article , aside {
+  background-color: #abc;
+  margin: 10px;
+  padding: 10px;
+}
+
+button[type="button"]{
+  background: #abc;
+  padding: 10px;
+}
+
+#experiment {
+  border: 1px #000 solid;
+  margin: 10px;
+  padding: 10px;
+}
